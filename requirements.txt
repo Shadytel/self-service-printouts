@@ -1,0 +1,4 @@
+pandas
+Jinja2
+fpdf
+PyPDF2
